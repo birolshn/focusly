@@ -29,10 +29,10 @@ Focusly is a Flutter-based productivity application designed to help users stay 
 ## 🖼️ App Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot_1769876336.png" width="250"/>
-  <img src="screenshots/Screenshot_1769876545.png" width="250"/>
-  <img src="screenshots/Screenshot_1769876746.png" width="250"/>
-  <img src="screenshots/Screenshot_1769876760.png" width="250"/>
+  <img src="screenshots/Screenshot_1769876336.png" width="200"/>
+  <img src="screenshots/Screenshot_1769876545.png" width="200"/>
+  <img src="screenshots/Screenshot_1769876746.png" width="200"/>
+  <img src="screenshots/Screenshot_1769876760.png" width="200"/>
 </p>
 
 ---
