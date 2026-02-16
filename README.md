@@ -29,16 +29,16 @@ Focusly is a Flutter-based productivity application designed to help users stay 
 ## 🖼️ App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](screenshots/Screenshot_1769876336.png)
 
 ### ⏳ Pomodoro Timer
-![Pomodoro Timer](assets/screenshots/timer.png)
+![Pomodoro Timer](screenshots/Screenshot_1769876545.png)
 
 ### ✅ Task Management
-![Todo Screen](assets/screenshots/todo.png)
+![Todo Screen](screenshots/todo.png)
 
 ### 📊 Analytics Dashboard
-![Analytics Screen](assets/screenshots/analytics.png)
+![Analytics Screen](screenshots/analytics.png)
 
 > 📌 You can replace the image paths after adding screenshots to your project.
 
